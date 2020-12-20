@@ -1,0 +1,19 @@
+{
+  "name": "surakiat",
+  "version": "1.0.0",
+  "description": "Welcome to the JEDI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app01"
+  ],
+  "author": "JEDI",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "fileio": "^2.2.1"
+  }
+}
