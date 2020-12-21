@@ -1,1 +1,1 @@
-console.log("Hello BANGTAN typscript!!!")
+console.log("Hello BANGTAN-JEDI typscript!!!")
